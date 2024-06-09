@@ -1,2 +1,3 @@
 # Integration-Tests-Databases
-Testing Console-based application built using .Net Core Framework
+## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
+---
