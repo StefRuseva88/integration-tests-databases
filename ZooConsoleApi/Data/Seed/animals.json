@@ -1,0 +1,82 @@
+[
+  {
+    "CatalogNumber": "01HNTWXTQSH4",
+    "Name": "Lappy",
+    "Breed": "Baboon, savanna",
+    "Type": "Mammal",
+    "Gender": "Male",
+    "IsHealthy": true
+  },
+  {
+    "CatalogNumber": "01HNTWXTQX03",
+    "Name": "Loris",
+    "Breed": "Colobus, magistrate black",
+    "Type": "Mammal",
+    "Gender": "Female",
+    "IsHealthy": false
+  },
+  {
+    "CatalogNumber": "01HNTWXTQYTY",
+    "Name": "Charly",
+    "Breed": "Chilean flamingo",
+    "Type": "Birth",
+    "Gender": "Male",
+    "IsHealthy": false
+  },
+  {
+    "CatalogNumber": "01HNTWXTQZ99",
+    "Name": "Johnny",
+    "Breed": "Cape fox",
+    "Type": "Mammal",
+    "Gender": "Male",
+    "IsHealthy": true
+  },
+  {
+    "CatalogNumber": "01HNTWXTR07A",
+    "Name": "Steve",
+    "Breed": "Pine siskin",
+    "Type": "Birth",
+    "Gender": "Male",
+    "IsHealthy": false
+  },
+  {
+    "CatalogNumber": "01HNTWXTR0E5",
+    "Name": "Laura",
+    "Breed": "Oriental short-clawed otter",
+    "Type": "Mammal",
+    "Gender": "Female",
+    "IsHealthy": false
+  },
+  {
+    "CatalogNumber": "01HNTWXTR1D7",
+    "Name": "Elly",
+    "Breed": "Short-beaked echidna",
+    "Type": "Mammal",
+    "Gender": "Female",
+    "IsHealthy": true
+  },
+  {
+    "CatalogNumber": "01HNTWXTR2WY",
+    "Name": "Henry",
+    "Breed": "Golden eagle",
+    "Type": "Birth",
+    "Gender": "Male",
+    "IsHealthy": false
+  },
+  {
+    "CatalogNumber": "01HNTWXTR23E",
+    "Name": "Chris",
+    "Breed": "Genet, common",
+    "Type": "Mammal",
+    "Gender": "Male",
+    "IsHealthy": true
+  },
+  {
+    "CatalogNumber": "01HNTWXTR3J8",
+    "Name": "Stew",
+    "Breed": "Macaque, pig-tailed",
+    "Type": "Mammal",
+    "Gender": "Male",
+    "IsHealthy": true
+  }
+]
