@@ -40,3 +40,18 @@ Testing Console-based applications built using .Net Core Framework.
 - SQL Server / MongoDB / Other Database Systems (local or remote)
 - Visual Studio 2019 or later / Visual Studio Code
 
+### Learning Outcomes
+By working through this project, students will:
+
+- Gain hands-on experience with database management in MongoDB.
+- Learn how to interact with MongoDB using the MongoDB.Driver.
+- Understand how to design and implement a console-based application.
+- Develop skills to write and run unit and integration tests to ensure the application works correctly with the database.
+### Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+For any questions or suggestions, please open an issue in the repository.
