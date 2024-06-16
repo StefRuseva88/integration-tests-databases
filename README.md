@@ -4,7 +4,7 @@
 
 ### Project Description
 
-**Integration-Tests-Databases** is a test project designed to practice and demonstrate integration testing with databases for console-based applications built using the .NET Core Framework and Entity Framework. 
+**Integration-Tests-Databases** is a test project designed to demonstrate integration testing with databases for console-based applications built using the .NET Core Framework and Entity Framework. 
 
 ## Key Concepts
 
@@ -31,13 +31,6 @@
     - **IntegrationTests.csproj**: Project file for the test project.
     - **TestContactDbContext.csproj**: 
 
-### Learning Outcomes
-By working through this project, students will:
-
-- Gain hands-on experience with database management in MongoDB.
-- Learn how to interact with MongoDB using the MongoDB.Driver.
-- Understand how to design and implement a console-based application.
-- Develop skills to write and run unit and integration tests to ensure the application works correctly with the database.
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
