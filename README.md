@@ -2,10 +2,10 @@
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
+### This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
 ---
 
-### Project Description
+## Project Description
 
 **Integration-Tests-Databases** is a test project designed to demonstrate integration testing with databases for console-based applications built using the .NET Core Framework and Entity Framework. 
 
@@ -34,11 +34,11 @@
     - **IntegrationTests.csproj**: Project file for the test project.
     - **TestContactDbContext.csproj**
 
-### Contributing
+## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
-### License
+## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
-### Contact
+## Contact
 For any questions or suggestions, please open an issue in the repository.
