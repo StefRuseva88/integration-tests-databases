@@ -25,8 +25,8 @@
 
 - **ContactsConsoleApi**: Console program for simulating a contact book application.
 - **ProductConsoleAPI**: Console program for simulating a product managing application. 
-- **TownsConsoleApi**: Console application for simulating a town adress application.
-- **ZooConsoleApi**: Console application for simulating a zoo managing application.
+- **TownsConsoleApi**: Console program for simulating a town adress application.
+- **ZooConsoleApi**: Console program for simulating a zoo managing application.
 
 ## Project Structure
 
