@@ -21,12 +21,12 @@
 - **Entity Framework Core**: ORM and database drivers for interacting with databases.
 - **nUnit**: A unit-testing framework for .NET applications.
 
-## Project Included
+## Projects Included
 
-- **ContactsConsoleApi**
-- **ProductConsoleAPI**
-- **TownsConsoleApi**
-- **ZooConsoleApi**
+- **ContactsConsoleApi**:
+- **ProductConsoleAPI**:
+- **TownsConsoleApi**:
+- **ZooConsoleApi**:
 
 ## Project Structure
 
