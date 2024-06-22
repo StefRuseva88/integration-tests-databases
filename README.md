@@ -23,7 +23,7 @@
 
 ## Projects Included
 
-- **ContactsConsoleApi**:
+- **ContactsConsoleApi**: Console application for simulating a contact book application.
 - **ProductConsoleAPI**:
 - **TownsConsoleApi**:
 - **ZooConsoleApi**:
