@@ -21,6 +21,20 @@
 - **Entity Framework Core**: ORM and database drivers for interacting with databases.
 - **nUnit**: A unit-testing framework for .NET applications.
 
+## Project Included
+
+- **ConsoleAPI**: The main project folder containing the console application and integration tests.
+    - **ConsoleAPI.csproj**: Project file for the console application.
+    - **Program.cs**: The main entry point of the application.
+    - **DataAccess.cs**: The Entity Framework context for managing database operations.
+    - **Data.cs**: The model representing the data structure.
+    - **Business.cs**: Contains business logic for managing data.
+
+- **ConsoleAPI.IntegrationTests.NUnit**: The test project folder containing integration tests.
+    - **IntegrationTests.csproj**: Project file for the test project.
+    - **TestContactDbContext.csproj**
+
+
 ## Project Structure
 
 - **ConsoleAPI**: The main project folder containing the console application and integration tests.
