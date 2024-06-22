@@ -23,9 +23,9 @@
 
 ## Projects Included
 
-- **ContactsConsoleApi**: Console application for simulating a contact book application.
-- **ProductConsoleAPI**:
-- **TownsConsoleApi**:
+- **ContactsConsoleApi**: Console program for simulating a contact book application.
+- **ProductConsoleAPI**: Console program for simulating a product managing application. 
+- **TownsConsoleApi**: Console application for simulating a zoo application.
 - **ZooConsoleApi**:
 
 ## Project Structure
