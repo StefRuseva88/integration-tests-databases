@@ -8,41 +8,42 @@
 ### This is a test project for **Back-End Test Technologies** January 2024 Course @ SoftUni.
 ---
 
-## Project Description
+## Project Overview
 
-**Integration-Tests-Databases** is a test project designed to demonstrate integration testing with databases for console-based applications built using the .NET Core Framework and Entity Framework. 
+The Integration-Tests-Databases project demonstrates the implementation of integration testing for console-based applications built using the .NET Core Framework and Entity Framework. It highlights how to test the interaction between the application and its database layer to ensure correct functionality across different components. 
 
 ## Key Concepts
 
-- **Integration Testing**: Ensuring different parts of the application work together as expected.
-- **Database Testing**: Verifying that the application correctly interacts with the database.
+- **Integration Testing:** Verifies that various components of an application function together as expected, including the interaction with external systems like databases.
+- **Database Testing:** Ensures that the application properly interacts with the database, handles data retrieval, updates, and other operations correctly.
 
 ## Technologies Used
 
-- **.NET Core**: The primary framework used for building the console applications.
-- **SQL Server**: The database management systems used for storing application data.
-- **Entity Framework Core**: ORM and database drivers for interacting with databases.
+- **.NET Core**: The framework used to develop the console applications.
+- **SQL Server**: The database management system used for data storage.
+- **Entity Framework Core**: An Object-Relational Mapping (ORM) tool used to manage database operations.
 - **nUnit**: A unit-testing framework for .NET applications.
 
 ## Projects Included
+The repository contains multiple projects, each representing a different console application with a focus on specific functionalities:
 
-- **ContactsConsoleApi**: Console program for simulating a contact book application.
-- **ProductConsoleAPI**: Console program for simulating a product managing application. 
-- **TownsConsoleApi**: Console program for simulating a town adress application.
-- **ZooConsoleApi**: Console program for simulating a zoo managing application.
+- **ContactsConsoleApi**: Simulates a contact book application.
+- **ProductConsoleAPI**: Simulates product management operations.
+- **TownsConsoleApi**: Simulates an address management system for towns.
+- **ZooConsoleApi**: Simulates the management of zoo data, including animal records.
 
 ## Project Structure
 
-- **ConsoleAPI**: The main project folder containing the console application and integration tests.
-    - **ConsoleAPI.csproj**: Project file for the console application.
-    - **Program.cs**: The main entry point of the application.
-    - **DataAccess.cs**: The Entity Framework context for managing database operations.
-    - **Data.cs**: The model representing the data structure.
-    - **Business.cs**: Contains business logic for managing data.
+- **ConsoleAPI**: This is the main project directory containing the console application and integration tests.
+    - **ConsoleAPI.csproj**: The project file for the console application.
+    - **Program.cs**: The entry point of the application.
+    - **DataAccess.cs**: Contains the Entity Framework context for handling database interactions.
+    - **Data.cs**: Represents the data models used by the application.
+    - **Business.cs**: Contains the business logic for managing the application's data.
 
 - **ConsoleAPI.IntegrationTests.NUnit**: The test project folder containing integration tests.
-    - **IntegrationTests.csproj**: Project file for the test project.
-    - **TestDbContext.csproj**
+    - **IntegrationTests.csproj**: The project file for the integration tests.
+    - **TestDbContext.csproj**: Project file for the test database context used in the integration tests.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
