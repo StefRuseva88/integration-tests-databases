@@ -42,7 +42,7 @@
 
 - **ConsoleAPI.IntegrationTests.NUnit**: The test project folder containing integration tests.
     - **IntegrationTests.csproj**: Project file for the test project.
-    - **TestContactDbContext.csproj**
+    - **TestDbContext.csproj**
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
