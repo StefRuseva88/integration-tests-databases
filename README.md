@@ -45,9 +45,6 @@ The repository contains multiple projects, each representing a different console
     - **IntegrationTests.csproj**: The project file for the integration tests.
     - **TestDbContext.csproj**: Project file for the test database context used in the integration tests.
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
